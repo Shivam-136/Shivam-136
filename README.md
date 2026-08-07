@@ -4,16 +4,11 @@
 
 ### Full Stack Developer | Building clean, scalable software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Building+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-136&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-136&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 
 </div>
 
