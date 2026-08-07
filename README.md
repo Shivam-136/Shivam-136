@@ -22,7 +22,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github&theme=dark" alt="Skills" />
 </div>
 
 ---
