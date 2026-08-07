@@ -2,7 +2,7 @@
 
 # Hi, I'm Shivam 👋
 
-### Full Stack MERN Developer | Building clean, scalable software
+### Full Stack Developer | Building clean, scalable software
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Building+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
