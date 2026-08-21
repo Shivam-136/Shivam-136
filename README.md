@@ -100,11 +100,14 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Project One](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | React · Node.js · MongoDB |
-| **[Project Two](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | Express · MySQL · Tailwind |
-| **[Project Three](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | TypeScript · Redux |
+| **[Nexa – Voice Assistant](https://github.com/Shivam-136/Nexa.VoiceAssistant-V1-Frontend)** | Frontend for a voice-assistant application. | JavaScript |
+| **[CineView](https://github.com/Shivam-136/CINEVIEW-Frontend)** | Movie discovery/browsing frontend app. | JavaScript |
+| **[Backend Projects](https://github.com/Shivam-136/BACKEND)** | Collection of backend APIs and server-side work. | JavaScript · Node.js |
+| **[Redux Toolkit Practice](https://github.com/Shivam-136/Redux.Toolkit-Learning)** | Hands-on state-management exercises with Redux Toolkit. | React · Redux |
 
 </div>
+
+> 💡 Update the descriptions above with a line or two on what each project actually does — makes the table far more compelling to recruiters.
 
 <br/>
 
