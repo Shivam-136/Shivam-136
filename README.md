@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:58A6FF&height=200&section=header&text=Hi%20There!%20I'm%20Shivam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Clean,%20Scalable%20Software&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real-World+Applications;Clean+Code+%7C+Scalable+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 ```yaml
 name: Shivam
 role: Full Stack Developer
-focus: MERN Stack | REST APIs | Scalable Web Apps
+focus: Full Stack Development | REST APIs | Scalable Web Apps
 currently_learning: System Design & Cloud Deployment
 fun_fact: Ships code faster with a cup of coffee ☕
 ```
@@ -94,16 +94,25 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivam-136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-136&layout=compact&theme=tokyonight&hide_border=true"/>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Project One](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | React · Node.js · MongoDB |
+| **[Project Two](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | Express · MySQL · Tailwind |
+| **[Project Three](https://github.com/Shivam-136)** | Short one-line description of what this project does and the problem it solves. | TypeScript · Redux |
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-136&theme=tokyonight&hide_border=true"/>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shivam-136/Shivam-136/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
