@@ -125,17 +125,6 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 > 💡 Update the descriptions above with a line or two on what each project actually does — makes the table far more compelling to recruiters.
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivam-136/Shivam-136/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
-<br/>
 
 ## ⚡ GitHub Highlights
 
