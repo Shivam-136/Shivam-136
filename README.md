@@ -21,8 +21,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shivam-136&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 <br/>
