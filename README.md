@@ -6,20 +6,18 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/shivam-k-029665362/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shivam243028@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/Shivam-136">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://dev-by-shivam.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
-<br/><br/>
 
 </div>
 
@@ -27,26 +25,16 @@
 
 ## 👨‍💻 About Me
 
-I'm Shivam — a **Full Stack Developer** who enjoys turning ideas into real, working products. I build across the entire stack: designing clean UIs on the frontend, wiring up robust APIs on the backend, and modeling data that scales.
+I'm Shivam — a **Full Stack Developer** who enjoys turning ideas into real, working products. I build across the entire stack: clean UIs on the frontend, robust APIs on the backend, and data models that scale.
 
-```yaml
-name: Shivam
-role: Full Stack Developer
-focus: Full Stack Development · REST APIs · Scalable Web Apps
-currently_building: Projects with React, Node.js & MongoDB
-currently_learning: System Design · DSA · Cloud Deployment
-looking_to_collaborate_on: Open-source & full-stack web projects
-ask_me_about: JavaScript, React, Node.js, Java
-fun_fact: Ships code faster with a cup of coffee ☕
-```
-
-- 🔭 **Currently building** — full-stack web applications end-to-end (frontend, backend, and database)
-- 🌱 **Currently learning** — system design, DSA, and deployment/cloud fundamentals
+- 🔭 **Currently building** — full-stack web applications end-to-end (React, Node.js, MongoDB)
+- 🌱 **Currently learning** — system design, DSA, and cloud deployment
 - 🎯 **Goal** — writing clean, scalable code and shipping products that solve real problems
 - 🤝 **Open to** — collaborating on open-source and full-stack projects
 - 💬 **Ask me about** — JavaScript, React, Node.js, Express, MongoDB, Java
-- 📫 **Reach me at** — shivam243028@gmail.com
+- 📫 **Reach me at** — [shivam243028@gmail.com](mailto:shivam243028@gmail.com)
 - 🌐 **Portfolio** — [dev-by-shivam.vercel.app](https://dev-by-shivam.vercel.app)
+- ⚡ **Fun fact** — ships code faster with a cup of coffee ☕
 
 <br/>
 
@@ -109,15 +97,14 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Nexa – Voice Assistant](https://github.com/Shivam-136/Nexa.VoiceAssistant-V1-Frontend)** | Frontend for a voice-assistant application. | JavaScript |
-| **[CineView](https://github.com/Shivam-136/CINEVIEW-Frontend)** | Movie discovery/browsing frontend app. | JavaScript |
-| **[Backend Projects](https://github.com/Shivam-136/BACKEND)** | Collection of backend APIs and server-side work. | JavaScript · Node.js |
-| **[Redux Toolkit Practice](https://github.com/Shivam-136/Redux.Toolkit-Learning)** | Hands-on state-management exercises with Redux Toolkit. | React · Redux |
+| **[Nexa – Voice Assistant](https://github.com/Shivam-136/Nexa.VoiceAssistant-V1-Frontend)** | Voice-assistant web app frontend. Add: what commands it supports + live demo link. | JavaScript · React |
+| **[CineView](https://github.com/Shivam-136/CINEVIEW-Frontend)** | Movie discovery app to browse and explore films. Add: API used + live demo link. | JavaScript · React |
+| **[Backend Projects](https://github.com/Shivam-136/BACKEND)** | REST APIs and server-side work with auth and database integration. | Node.js · Express · MongoDB |
+| **[Redux Toolkit Practice](https://github.com/Shivam-136/Redux.Toolkit-Learning)** | Hands-on state-management exercises using Redux Toolkit. | React · Redux |
 
 </div>
 
-> 💡 Update the descriptions above with a line or two on what each project actually does — makes the table far more compelling to recruiters.
-
+<br/>
 
 ## ⚡ GitHub Highlights
 
@@ -129,8 +116,12 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivam-136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-136&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- These SVGs are generated daily by .github/workflows/cards.yml -->
+<img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 
 </div>
 
@@ -140,7 +131,7 @@ fun_fact: Ships code faster with a cup of coffee ☕
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-k-029665362/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shivam243028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Shivam-136"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
