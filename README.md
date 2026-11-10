@@ -106,22 +106,25 @@ I'm Shivam — a **Full Stack Developer** who enjoys turning ideas into real, wo
 
 <br/>
 
-## ⚡ GitHub Highlights
+## 🎯 What I'm Working On
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Shivam-136?label=Followers&style=for-the-badge&color=58A6FF&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shivam-136&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58A6FF&logo=github"/>
-<img src="https://img.shields.io/github/stars/Shivam-136?affiliations=OWNER&style=for-the-badge&color=58A6FF&logo=github"/>
+| 🔨 Building | 📚 Learning | 🎯 Next Goal |
+|---|---|---|
+| Full-stack app with React, Node.js & MongoDB | System Design, DSA, Cloud Deployment | Deploy a production-ready project with auth & CI/CD |
 
-<br/><br/>
+</div>
 
-<!-- These SVGs are generated daily by .github/workflows/cards.yml -->
-<img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+<br/>
 
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+## 💼 What I Do
+
+<div align="center">
+
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database |
+|---|---|---|
+| Responsive UIs with React, Next.js & Tailwind | REST APIs with Node.js, Express & JWT auth | Schema design with MongoDB, MySQL & PostgreSQL |
 
 </div>
 
